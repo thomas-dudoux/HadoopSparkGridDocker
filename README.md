@@ -8,8 +8,9 @@ Languages :
   - Python 3.X (Miniconda ?)
   - Scala
 BDD :
-  - PostgreSQL
+  - PostgreSQL (Hive metastore)
   - Hive
+  - Virtuoso 
 Framework
   - Hadoop
   - Spark
