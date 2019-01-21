@@ -1,11 +1,11 @@
 ## Computing grid for Spark and Hive on Hadoop
 OS : Docker Compose
 Service :
-  - Zeppelin (Jupyter-Notebook ?)
+  - Zeppelin
   - SPARQL
-  - Nginx (reverse proxy)
+  - Hue
 Languages :
-  - Python 3.X (Miniconda ?)
+  - Python 3.X
   - Scala
 BDD :
   - PostgreSQL (Hive metastore)
@@ -21,5 +21,8 @@ Needed :
 Links :
   - https://github.com/big-data-europe
   - https://hub.docker.com/u/bde2020/
+  - http://www.snee.com/bobdc.blog/2015/03/spark-and-sparql-rdf-graphs-an.html (Tuto Test qui créer des Turtle avec des graphx)
+  - http://www-bd.lip6.fr/wiki/en/site/recherche/logiciels/sparqlwithspark (Recherche)
+  - http://www.vldb.org/pvldb/vol9/p804-schaetzle.pdf (S2RDF, Papier sur la ibraire Spark -> RDF )
 
 TY BDE for all the Dockerfiles <3
